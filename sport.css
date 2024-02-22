@@ -263,11 +263,11 @@ video {
 }
 
 #card2 {
-    background-image: url("/sportweb/sidcup-family-golf-main/card2.webp");
+    background-image: url("https://raw.githubusercontent.com/bhargav250309/sidcup-family-golf/main/sidcup-family-golf-main/card2.webp");
 }
 
 #card3 {
-    background-image: url("/sportweb/sidcup-family-golf-main/card3.avif");
+    background-image: url("");
 }
 
 .overlay {
